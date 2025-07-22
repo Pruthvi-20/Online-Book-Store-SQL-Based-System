@@ -1,0 +1,51 @@
+﻿book_id,title,author,genre,published_year,price,stock
+1,The Vanishing Half,Brit Bennett,Science Fiction,1997,21.31,33
+2,Brave New World,Aldous Huxley,Science Fiction,1990,26.15,7
+3,The Alchemist,Paulo Coelho,Biography,2002,49.55,17
+4,Becoming,Michelle Obama,Biography,2007,45.11,26
+5,Becoming,Michelle Obama,Historical,1976,22.88,28
+6,Educated,Tara Westover,Fantasy,1961,21.87,10
+7,Brave New World,Aldous Huxley,Biography,2005,7.04,58
+8,The Testaments,Margaret Atwood,Fantasy,2001,31.19,42
+9,The Night Circus,Erin Morgenstern,Science Fiction,2007,38.83,42
+10,Pride and Prejudice,Jane Austen,Biography,1990,32.53,90
+11,Pride and Prejudice,Jane Austen,Fantasy,1988,29.53,99
+12,The Testaments,Margaret Atwood,Thriller,1994,18.29,72
+13,The Great Gatsby,F. Scott Fitzgerald,Biography,1963,28.36,76
+14,The Silent Patient,Alex Michaelides,Thriller,1972,19.8,68
+15,The Vanishing Half,Brit Bennett,Thriller,1958,39.1,19
+16,The Vanishing Half,Brit Bennett,Biography,2015,9.63,37
+17,The Silent Patient,Alex Michaelides,Thriller,1968,48.35,23
+18,The Alchemist,Paulo Coelho,Fantasy,1974,31.28,54
+19,The Alchemist,Paulo Coelho,Drama,1963,43.71,88
+20,The Silent Patient,Alex Michaelides,Thriller,2019,10.17,77
+21,Normal People,Sally Rooney,Science Fiction,1997,25.75,81
+22,Normal People,Sally Rooney,Science Fiction,1979,6.35,62
+23,1984,George Orwell,Fantasy,2001,28.44,75
+24,The Testaments,Margaret Atwood,Historical,1974,47.5,3
+25,Pride and Prejudice,Jane Austen,Thriller,2001,11.5,60
+26,The Alchemist,Paulo Coelho,Fantasy,1962,13.89,40
+27,Project Hail Mary,Andy Weir,Science Fiction,1954,44.44,71
+28,Pride and Prejudice,Jane Austen,Drama,1957,6.53,55
+29,The Testaments,Margaret Atwood,Thriller,2021,11.04,73
+30,The Great Gatsby,F. Scott Fitzgerald,Fantasy,1993,18.59,25
+31,The Vanishing Half,Brit Bennett,Science Fiction,1999,33.39,37
+32,Jane Eyre,Charlotte BrontÃ«,Science Fiction,2013,43.09,1
+33,The Night Circus,Erin Morgenstern,Fantasy,1951,9.49,77
+34,The Testaments,Margaret Atwood,Drama,1959,34.96,81
+35,The Great Gatsby,F. Scott Fitzgerald,Fantasy,2010,48.6,6
+36,The Vanishing Half,Brit Bennett,Drama,1992,15.2,71
+37,The Book Thief,Markus Zusak,Fantasy,1999,21.81,97
+38,Circe,Madeline Miller,Fiction,1956,23.13,8
+39,Becoming,Michelle Obama,Thriller,1970,8.89,11
+40,Jane Eyre,Charlotte BrontÃ«,Fiction,1951,42.53,72
+41,To Kill a Mockingbird,Harper Lee,Science Fiction,1971,42.36,10
+42,To Kill a Mockingbird,Harper Lee,Historical,2001,49,92
+43,The Great Gatsby,F. Scott Fitzgerald,Thriller,1971,44.13,73
+44,The Testaments,Margaret Atwood,Fantasy,1958,10.94,47
+45,The Testaments,Margaret Atwood,Drama,1989,13.13,18
+46,Daisy Jones & The Six,Taylor Jenkins Reid,Fantasy,2008,8.57,38
+47,Becoming,Michelle Obama,Science Fiction,1982,40.08,53
+48,The Night Circus,Erin Morgenstern,Romance,1987,30.13,75
+49,The Great Gatsby,F. Scott Fitzgerald,Science Fiction,1977,23.6,24
+50,Educated,Tara Westover,Thriller,2009,48.32,4
